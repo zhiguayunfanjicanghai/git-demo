@@ -9,7 +9,8 @@ spring:
     password: 123456
 
   # MyBatis 的相关配置
-mybatis:
+  mybatis:
+    mapper-locations: classpath:com/powernode/mapper/*.xml
     configuration:
       log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
       #开启驼峰命名方式
