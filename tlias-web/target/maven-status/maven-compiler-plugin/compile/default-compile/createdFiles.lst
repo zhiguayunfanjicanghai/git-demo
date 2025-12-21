@@ -1,7 +1,0 @@
-com\powernode\pojo\Dept.class
-com\powernode\TliasWebApplication.class
-com\powernode\pojo\Result.class
-com\powernode\service\impl\DeptServiceImpl.class
-com\powernode\service\DeptService.class
-com\powernode\mapper\DeptMapper.class
-com\powernode\controller\DeptController.class
